@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Experimental</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 
@@ -51,6 +51,6 @@
         </div>
     </div>
 </body>
-<script src="jscode.js"></script>
+<script src="js/code.js"></script>
 
 </html>
